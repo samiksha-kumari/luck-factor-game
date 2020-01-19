@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/samiksha-kumari/luck-factor-game/static/css/main.364e594b.chunk.css",
-    "main.js": "/samiksha-kumari/luck-factor-game/static/js/main.fe0f2076.chunk.js",
-    "main.js.map": "/samiksha-kumari/luck-factor-game/static/js/main.fe0f2076.chunk.js.map",
-    "runtime-main.js": "/samiksha-kumari/luck-factor-game/static/js/runtime-main.f3feb64f.js",
-    "runtime-main.js.map": "/samiksha-kumari/luck-factor-game/static/js/runtime-main.f3feb64f.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/samiksha-kumari/luck-factor-game/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.929314d7.chunk.js": "/samiksha-kumari/luck-factor-game/static/js/2.929314d7.chunk.js",
-    "static/js/2.929314d7.chunk.js.map": "/samiksha-kumari/luck-factor-game/static/js/2.929314d7.chunk.js.map",
-    "index.html": "/samiksha-kumari/luck-factor-game/index.html",
-    "precache-manifest.54646f155bc73f6b8139c2857f7cfd24.js": "/samiksha-kumari/luck-factor-game/precache-manifest.54646f155bc73f6b8139c2857f7cfd24.js",
-    "service-worker.js": "/samiksha-kumari/luck-factor-game/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/samiksha-kumari/luck-factor-game/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.364e594b.chunk.css.map": "/samiksha-kumari/luck-factor-game/static/css/main.364e594b.chunk.css.map",
-    "static/js/2.929314d7.chunk.js.LICENSE": "/samiksha-kumari/luck-factor-game/static/js/2.929314d7.chunk.js.LICENSE"
+    "main.css": "/luck-factor-game/static/css/main.364e594b.chunk.css",
+    "main.js": "/luck-factor-game/static/js/main.963bdbb1.chunk.js",
+    "main.js.map": "/luck-factor-game/static/js/main.963bdbb1.chunk.js.map",
+    "runtime-main.js": "/luck-factor-game/static/js/runtime-main.fcb6604f.js",
+    "runtime-main.js.map": "/luck-factor-game/static/js/runtime-main.fcb6604f.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/luck-factor-game/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.929314d7.chunk.js": "/luck-factor-game/static/js/2.929314d7.chunk.js",
+    "static/js/2.929314d7.chunk.js.map": "/luck-factor-game/static/js/2.929314d7.chunk.js.map",
+    "index.html": "/luck-factor-game/index.html",
+    "precache-manifest.747dd478a394d1e37f0892bb814e15ee.js": "/luck-factor-game/precache-manifest.747dd478a394d1e37f0892bb814e15ee.js",
+    "service-worker.js": "/luck-factor-game/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/luck-factor-game/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.364e594b.chunk.css.map": "/luck-factor-game/static/css/main.364e594b.chunk.css.map",
+    "static/js/2.929314d7.chunk.js.LICENSE": "/luck-factor-game/static/js/2.929314d7.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3feb64f.js",
+    "static/js/runtime-main.fcb6604f.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.929314d7.chunk.js",
     "static/css/main.364e594b.chunk.css",
-    "static/js/main.fe0f2076.chunk.js"
+    "static/js/main.963bdbb1.chunk.js"
   ]
 }
